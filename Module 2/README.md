@@ -68,8 +68,10 @@ Different instance types are designed for different use cases:
 - To handle changing demand automatically, you use **Amazon EC2 Auto Scaling**.
 
 #### **Amazon EC2 Auto Scaling**
+<p align="center">
+  <img src="https://github.com/Mohamed-Hamdy/AWS-Cloud-Practitioner-Essentials-Course-Notes/blob/main/Images/CPE%20Digital%20-%20Amazon%20EC2%20Auto%20Scaling.png?raw=true" width="400" alt="CPE Digital - Amazon EC2 Auto Scaling" />
+</p>
 
-<img src="D:\AWS Cloud Practitioner Essentials\AWS-Cloud-Practitioner-Essentials\Images\CPE Digital - Amazon EC2 Auto Scaling.png" alt="CPE Digital - Amazon EC2 Auto Scaling" width="400"/>
 
 - Automatically adds or removes EC2 instances based on application demand.
 - Ensures high availability and optimal cost-efficiency.
@@ -105,7 +107,10 @@ Different instance types are designed for different use cases:
 
 > If only a few customers are present, a few EC2 instances (registers) handle the traffic.
 
-<img src="D:/AWS Cloud Practitioner Essentials/AWS-Cloud-Practitioner-Essentials/Images/CPE Digital - Low demand.png" width="350" alt="Low Demand">
+<p align="center">
+  <img src="https://github.com/Mohamed-Hamdy/AWS-Cloud-Practitioner-Essentials-Course-Notes/blob/main/Images/CPE%20Digital%20-%20Low%20demand.png?raw=true" alt="Low Demand" width="350" />
+</p>
+
 
 ------
 
@@ -113,8 +118,9 @@ Different instance types are designed for different use cases:
 
 > As customer demand increases, more EC2 instances (registers) are launched to manage the load efficiently, and ELB distributes traffic evenly.
 
-<img src="D:/AWS Cloud Practitioner Essentials/AWS-Cloud-Practitioner-Essentials/Images/CPE Digital - High demand.png" width="350" alt="High Demand">
-
+<p align="center">
+  <img src="https://github.com/Mohamed-Hamdy/AWS-Cloud-Practitioner-Essentials-Course-Notes/blob/main/Images/CPE%20Digital%20-%20High%20demand.png?raw=true" width="350" alt="High Demand">
+</p>
 ### <u>Messaging and Queuing in AWS</u>
 
 **Monolithic vs. Microservices Architecture:**
@@ -161,12 +167,12 @@ AWS supports microservices communication with two key services:
 ------
 
 ### **AWS Lambda Process**
-
-<img src="D:/AWS Cloud Practitioner Essentials/AWS-Cloud-Practitioner-Essentials/Images/aws-lambda-sudo.png" width="500" alt="High Demand">
-
+<p align="center">
+  <img src="https://github.com/Mohamed-Hamdy/AWS-Cloud-Practitioner-Essentials-Course-Notes/blob/main/Images/aws-lambda-sudo.png?raw=true" width="500" alt="aws-lambda-sudo">
+</p>
 1. Upload your code.
 2. Configure a trigger (like an S3 upload or API Gateway call).
-3. Lambda executes code **only when triggered**.
+3. Lambda executes code only when triggered.
 4. Billing is based on execution time only.
 
 ------
