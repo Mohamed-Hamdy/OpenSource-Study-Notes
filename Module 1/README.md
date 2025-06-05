@@ -1,12 +1,11 @@
-##                                                Module 1
-
+##                                                MODULE 1 - INTRODUCTION TO AMAZON WEB SERVICES
+ 
 ## What is a client-server model?
 
 You just learned more about AWS and how almost all of modern computing uses a basic client-server model. Let’s recap what a client-server model is
 
 
-
-![Client on left, server on right. Arrows pointing from client to server and from server to client to indicate a transaction.](https://explore.skillbuilder.aws/files/a/w/aws_prod1_docebosaas_com/1748811600/5432707vE110HteZm4pVJA/tincan/fe470bc5add63f94f005d3da17a6db8131e78b9e/assets/client_server.png)
+![Client on left, server on right. Arrows pointing from client to server and from server to client to indicate a transaction.](https://raw.githubusercontent.com/Mohamed-Hamdy/AWS-Cloud-Practitioner-Essentials-Course-Notes/main/Images/client_server.png)
 
 The **client-server model** is a computing structure where a **client** (like a web browser or app) sends requests to a **server**, which processes those requests and returns the appropriate data. For example, when you request a news article or video, the server—such as an AWS EC2 instance—responds with the content. This model underpins most modern computing and cloud services.
 
