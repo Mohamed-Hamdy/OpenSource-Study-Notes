@@ -18,7 +18,7 @@
 ### <u>**Availability Zones (AZs)**</u>
 
 <p align="center">
-  <img src="www.test.com" width="400" alt="availability_zones" />
+  <img src="https://raw.githubusercontent.com/Mohamed-Hamdy/AWS-Cloud-Practitioner-Essentials-Course-Notes/refs/heads/main/Images/availability_zones.png" width="500" alt="availability_zones" />
 </p>
 
 - An **AZ** is a **single data center or group of data centers** within a Region.
@@ -29,7 +29,7 @@
 ### **<u>Edge Locations</u>**
 
 <p align="center">
-  <img src="www.test.com" width="400" alt="CloudFront" />
+  <img src="https://github.com/Mohamed-Hamdy/AWS-Cloud-Practitioner-Essentials-Course-Notes/blob/main/Images/CloudFront.png?raw=true" width="500" alt="CloudFront" />
 </p>
 
 - An **Edge Location** is a site that **Amazon CloudFront** uses to **cache copies of content closer to customers**.
