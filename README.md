@@ -22,3 +22,18 @@ Each folder contains Markdown notes and quizzes:
 
 ## Call for Contributions
 Add your notes, improve existing ones, or help review content!
+
+## File Types Allowed ✅
+To keep the repository clean and focused, we only accept:
+
+- 📄 Markdown files (`.md`)
+- 📚 PDF documents (`.pdf`)
+
+### ❌ Not Allowed
+Please **do not upload**:
+- Images (`.png`, `.jpg`, `.jpeg`, `.svg`, etc.)
+- Word documents (`.docx`)
+- Presentations (`.pptx`)
+- Text files (`.txt`)
+- Code or scripts (`.java`, `.py`, etc.) unless part of a note
+- Screenshots or diagrams (unless embedded via a link in the Markdown)
